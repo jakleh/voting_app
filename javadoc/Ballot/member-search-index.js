@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Ballot","l":"addCandidate(Candidate)"},{"p":"<Unnamed>","c":"Ballot","l":"Ballot(String)","u":"%3Cinit%3E(java.lang.String)"},{"p":"<Unnamed>","c":"Ballot","l":"getCandidates()"},{"p":"<Unnamed>","c":"Ballot","l":"getOfficeName()"}];updateSearchResults();
