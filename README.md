@@ -7,6 +7,8 @@ The second line specifies how many candidates are running for office (the number
 must equal the number specified on the second line). The following lines each start with the name of a
 candidate, followed by a semicolon, followed by said candidate’s party affiliation.
 
+***
+
 To launch the program via jar file, navigate to the project folder and click on the subfolder labeled “jar.”
 Then, drag the file into the “source” subfolder. Open the terminal, navigate to the proper directory, and
 and run the following command:
