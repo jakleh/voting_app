@@ -11,7 +11,7 @@ To launch the program via jar file, navigate to the project folder and click on 
 Then, drag the file into the “source” subfolder. Open the terminal, navigate to the proper directory, and
 and run the following command:
 
-                                          java -jar PerfectCandidate.jar
+                                              java -jar PerfectCandidate.jar
 
 Once the program is launched, a window will appear. Click the “Browse” button and navigate to the
 correct input file (it should be within the same folder as the source code). Click the input file, and then
